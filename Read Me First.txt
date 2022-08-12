@@ -1,0 +1,10 @@
+
+*Note
+
+You have to set path for running this application on your computer.
+There is a database inside the project folder.
+Place entire project in samelocation.
+Open Project using Visual Studio.
+Set Connection string sperately for each form only which is connecting with database.
+Run application.
+Enjoy.
